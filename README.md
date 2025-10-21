@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I am Max aka Mosheh
+
+- 🔭 I’m currently working on ...
+Coding and Vibe Coding (special interest in Voice AI and RAG)
+AI Automations with
+  - n8n
+  - Make.com
+  - AirTable
+  - Softr.io
+  
+- 🌱 I’m currently learning ...
+General AI knowledge, Python, Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
+
+- 👯 I’m looking to collaborate on ...
+Agents & RAG
+ 
+- 🤔 I’m looking for help with ...
+Networking!
+ 
+- 💬 Ask me about ...
+Anything!
+  
+- 📫 How to reach me: ...
+https://AIwithApex.com
 
 <!--
 **moshehbenavraham/moshehbenavraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
