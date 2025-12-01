@@ -1,7 +1,11 @@
 ## Hi there 👋 I am Max aka Mosheh
 
 - 🔭 I’m currently working on ...
-Coding and Vibe Coding (special interest in Voice AI and RAG)
+Coding and AI-First (Vibe) Coding (special interest in Voice AI and RAG)
+  - Web Apps
+  - Micro Apps
+  - Production Start Ups
+
 AI Automations with
   - n8n
   - Make.com
@@ -9,7 +13,7 @@ AI Automations with
   - Softr.io
   
 - 🌱 I’m currently learning ...
-General AI knowledge, Python, Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
+General AI knowledge, Python, JavaScript EcoSystem, Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
 
 - 👯 I’m looking to collaborate on ...
 Agents & RAG
