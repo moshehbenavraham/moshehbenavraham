@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ...
 Coding and AI-First (Vibe) Coding (special interest in Voice AI and RAG)
+  - Python, React, +more
   - Web Apps
   - Micro Apps
   - Production Start Ups
@@ -13,7 +14,7 @@ AI Automations with
   - Softr.io
   
 🌱 I’m currently learning ...
- - General AI knowledge, AI-led Coding, Python, JavaScript EcoSystem, Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
+ - General AI knowledge, AI-led Coding, Python, JavaScript EcoSystem (React), Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
 
 👯 I’m looking to collaborate on ...
  - Agents & RAG
