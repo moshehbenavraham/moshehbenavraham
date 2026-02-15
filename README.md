@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Max aka Mosheh
 
+custom: ['https://github.com/sponsors/moshehbenavraham']
+
 - 🔭 I’m currently working on ...
 Coding and AI-First (Vibe) Coding (special interest in Voice AI and RAG)
   - Python, React, +more
