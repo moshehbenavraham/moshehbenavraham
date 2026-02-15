@@ -3,9 +3,10 @@
 Sponsor me and decide which Open-Source projects get my attention!  https://github.com/sponsors/moshehbenavraham
 
 - 🔭 I’m currently working on ...
-Coding and AI-First (Vibe) Coding (special interest in Voice AI and RAG)
+Coding and AI-First (Vibe) Coding (special interest in Voice AI, Agents and RAG)
   - Python, React, +more
   - Web Apps
+  - Pydantic Agents, LangChain, OpenClaw.ai
   - Micro Apps
   - Production Start Ups
 
@@ -16,10 +17,10 @@ AI Automations with
   - Softr.io
   
 🌱 I’m currently learning ...
- - General AI knowledge, AI-led Coding, Python, JavaScript EcoSystem (React), Agent Development, RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
+ - General AI knowledge, AI-led Coding, Python, JavaScript EcoSystem (React), Agent Development (Pydantic, Langchain), RAG, GraphRAG, Telephony Voice AI & adjacent (SMS, Twilio, WhatsApp, etc)
 
 👯 I’m looking to collaborate on ...
- - Agents & RAG
+ - Voice AI, Agents & RAG
  
 🤔 I’m looking for help with ...
  - Networking!
