@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Max aka Mosheh
 
-**Version: 0.1.0**
+**Version: 1.1.13**
 
 Sponsor me and decide which Open-Source projects get my attention!  https://github.com/sponsors/moshehbenavraham
 
