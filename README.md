@@ -1,8 +1,10 @@
 ## Hi there 👋 I am Max aka Mosheh
 
-**Version: 1.1.15**
+**Version: 1.1.16**
 
 Sponsor me and decide which Open-Source projects get my attention!  https://github.com/sponsors/moshehbenavraham
+
+Contributor to 85+ repositories and host of 30+ public repos as of March 2026.
 
 - 🔭 I’m currently working on ...
 Coding and AI-First (Vibe) Coding (special interest in Voice AI, Agents and RAG)
@@ -41,7 +43,7 @@ https://moshehbenavraham.github.io/
 
 ---
 
-## Public Repositories (by Stars)
+## Public Repositories
 
 | Project | Description | Repository |
 |---------|-------------|------------|
