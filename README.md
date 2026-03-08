@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Max aka Mosheh
 
-**Version: 1.1.14**
+**Version: 1.1.15**
 
 Sponsor me and decide which Open-Source projects get my attention!  https://github.com/sponsors/moshehbenavraham
 
@@ -35,8 +35,11 @@ AI Automations with
  - My calendar: https://AIwithApex.com
 
 ---
+
 My GitHub Page Sandbox:
 https://moshehbenavraham.github.io/
+
+---
 
 ## Public Repositories (by Stars)
 
