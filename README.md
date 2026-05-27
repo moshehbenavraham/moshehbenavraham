@@ -4,7 +4,7 @@
 
 Sponsor me and decide which Open-Source projects get my attention!  https://github.com/sponsors/moshehbenavraham
 
-Contributor to 85+ repositories and host of 30+ public repos as of March 2026.
+Contributor to 100+ repositories and host of 60+ public repos as of May 2026.
 
 - 🔭 I’m currently working on ...
 Coding and AI-First (Vibe) Coding (special interest in Voice AI, Agents and RAG)
